@@ -1,6 +1,6 @@
 const TEMPO_MINIMO = 1000;    // 1s em milissegundos
 const TEMPO_VARIAVEL = 3000;  // 3s
-const DURACAO = 5000;         // 5s
+const DURACAO = 2500;         // 2.5s
 const bolhaEl = carregaUmaImagem('images/bolha.png');
 
 function carregaUmaImagem(path) {
